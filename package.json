@@ -1,0 +1,24 @@
+{
+  "name": "fido2webauthnseries",
+  "version": "1.0.0",
+  "description": "A repo containing a samples and demos for the WebAuthn series",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "npx http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzolkiewski/FIDO2WebAuthnSeries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzolkiewski/FIDO2WebAuthnSeries/issues"
+  },
+  "homepage": "https://github.com/mzolkiewski/FIDO2WebAuthnSeries#readme"
+}
